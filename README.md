@@ -22,3 +22,4 @@ assets/            Images and diagrams
 ## Status
 
 Day 1: Repository setup complete.
+Day 2: Implemented Caesar Cipher (encrypt/decrypt)
