@@ -23,3 +23,4 @@ assets/            Images and diagrams
 
 Day 1: Repository setup complete.
 Day 2: Implemented Caesar Cipher (encrypt/decrypt)
+Day 3: Studied Vigenère cipher
