@@ -21,6 +21,7 @@ assets/            Images and diagrams
 
 ## Status
 
-Day 1: Repository setup complete.
-Day 2: Implemented Caesar Cipher (encrypt/decrypt)
-Day 3: Studied Vigenère cipher
+- Day 1: Repository setup complete.
+- Day 2: Implemented Caesar Cipher (encrypt/decrypt)
+- Day 3: Studied Vigenère cipher
+- Day x: Implemented Vigenère cipher after understanding functions and made better version of caesar cipher which is now user friendly and cleaner
